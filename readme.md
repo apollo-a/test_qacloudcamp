@@ -11,7 +11,7 @@
 
 1. Склонировать репозиторий в локальную директорию:
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/apollo-a/test_qacloudcamp.git
 ```
 2. Перейти в директорию проекта:
 ```
